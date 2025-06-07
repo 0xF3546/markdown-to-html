@@ -1,0 +1,1 @@
+export type OutputFormat = "html" | "react" | "nextjs" | "angular" | "vue";
